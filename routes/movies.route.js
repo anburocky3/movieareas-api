@@ -4,7 +4,7 @@ import {
   MovieDelete,
   MovieIndex,
   MovieUpdate,
-} from "../controllers/movies.controller";
+} from "../controllers/movies.controller.js";
 
 const router = express.Router();
 
